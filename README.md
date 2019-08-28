@@ -9,9 +9,4 @@ Všechny poznatky budou vypisovány buďto zde, nebo budou zpracovány ve Wordu 
 lhfdslsalhdslkjhfff
 
 
-
-jdsasalfdh
-fdsakjhfdsalk
-
-tested
-
+nevim lorem ipsum
