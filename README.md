@@ -6,3 +6,9 @@ Na tomto repozitáři se budu nějak snažit vytvořit a dát dohromady metodiku
 
 ## Kde najdu poznatky?
 Všechny poznatky budou vypisovány buďto zde, nebo budou zpracovány ve Wordu v Teamsech
+lhfdslsalhdslkjhfff
+
+
+nevim lorem ipsum
+tested
+
