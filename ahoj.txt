@@ -1,0 +1,7 @@
+﻿asdfasdfasdf
+timto upravuji neco k issue #7
+
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam felis sapien, egestas sed aliquet a, tempus quis dolor. Pellentesque facilisis quis odio ut tincidunt. Mauris vitae sapien nec enim elementum consequat nec sit amet diam. Ut sed sem vel lorem volutpat molestie. Sed egestas sollicitudin magna in consectetur. Nam et elit semper, accumsan turpis at, eleifend nisi. In scelerisque, purus at tincidunt imperdiet, nibh massa suscipit lacus, in viverra odio ipsum sit amet erat. Nulla maximus sollicitudin nibh, sit amet volutpat erat suscipit eget. Sed ornare felis consequat laoreet aliquet.
+potrebuji udelat neco pro merge konflikt
+
